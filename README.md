@@ -2,7 +2,7 @@
 
 Widgets pédagogiques interactifs (HTML autonomes) utilisés en cours par Sébastien Albert — programmation de jeux & IA.
 
-Déployés via **GitHub Pages** et embarqués dans le [portfolio](https://github.com/StudioAlbert/_portfolio) via `<iframe>`.
+Déployés via **GitHub Pages** et embarqués dans le [portfolio](https://github.com/StudioAlbert/Portfolio) via `<iframe>`.
 
 ## Widgets
 
